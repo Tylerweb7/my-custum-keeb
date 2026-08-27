@@ -1,0 +1,3 @@
+Enclosure and plate CAD modeling workspace is pending. 
+
+The custom Deep Neon Blue and Bright Yellow 60% carbon fiber top/bottom plates will be modeled here (or linked via an OnShape public workspace URL) once physical matrix switch spacing and hand-wiring clearance are finalized.
